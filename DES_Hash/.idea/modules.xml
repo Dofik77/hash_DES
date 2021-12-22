@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DES-Python-master.iml" filepath="$PROJECT_DIR$/.idea/DES-Python-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DES_hash.iml" filepath="$PROJECT_DIR$/.idea/DES_hash.iml" />
     </modules>
   </component>
 </project>
